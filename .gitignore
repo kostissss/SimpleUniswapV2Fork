@@ -1,0 +1,53 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/artifacts
+artifacts
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+# sssasas
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env
+
+# vercel
+.vercel
+node_modules
+node_modules
+deployments
+deploy
+hardhat.config.js
+helper-hardhat-config.js
+package.json
+yarn.lock
+test
+utils
